@@ -33,7 +33,7 @@ public class FizzBuzz1 {
             if (i%3==0){
                 n += "Fizz";
             }
-            if (i%4==0){
+            if (i%5==0){
                 n += "Buzz";
             }
             if (n==""){
